@@ -1,37 +1,109 @@
-## Welcome to GitHub Pages
+**© tüm hakları açık keyfinizce takılın**
 
-You can use the [editor on GitHub](https://github.com/TurkoBey/turkobey.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+* * *
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# **[☕️ buymeacoffee](./Kahve.md)**
 
-### Markdown
+* * *
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**[⚕ pyHES](./pyHES)**
 
-```markdown
-Syntax highlighted code block
+> *Python ile Hayat Eve Sığar ile ilgili işlemleri yapan bir kütüphane.*
 
-# Header 1
-## Header 2
-### Header 3
+* * *
 
-- Bulleted
-- List
+**![pyTrendyol](https://www.trendyol.com/frontend/web/assets/images/favicon.ico) [pyTrendyol](./pyTrendyol)**
 
-1. Numbered
-2. List
+> *Trendyol'dan veri almayı kolaylaştırmak için tasarlanan kütüphane.*
 
-**Bold** and _Italic_ and `Code` text
+* * *
 
-[Link](url) and ![Image](src)
-```
+**[✂️ KekikSpatula](./KekikSpatula)**
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+> *Siz uğraşmayın diye biz uğraştık.. ~ dızz 🐍*
 
-### Jekyll Themes
+* * *
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TurkoBey/turkobey.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**[🚀 KolektifAPI](./KolektifAPI)**
 
-### Support or Contact
+> *Flask Tabanlı KekikSpatula API*
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* * *
+
+**[🗺️ Risk Yasak Haritasi](./Risk-Yasak_Haritasi)**
+
+> **Flask - jS iş birliği ile Risk Yasak Haritası 🗺**
+>
+> *Risk grubu verileri anlık olarak sağlık bakanlığından alınmaktadır..*
+
+* * *
+
+**[🎧 SpotiTelegram](./SpotiTelegram)**
+
+> **Telegram Biyografinizde `Ne Dinliyorum?` Özelliği 🎧**
+>
+> *Eskiden MSN'de olduğu gibi anlık olarak dinlediğiniz şarkıyı gösteren bir proje..*
+*Spotify'dan anlık olarak dinlediğiniz müziği çeker ve Telegram biyografinize ekler.*
+
+* * *
+
+**[<img src="https://www.akashtrehan.com/assets/images/emoji/terminal.png" height="48" align="center"> KekikTaban](./KekikTaban)**
+
+> *@KekikAkademi adına yazılmış Projelerin Terminal Tabanı ve Biraz Dahası*
+
+* * *
+
+**[🔍 BTKSorgu](./BTKSorgu)**
+
+> *Hedef websitesinin BTK Tarafından Erişim Engeli Sorgusu*
+
+* * *
+
+**[📖 InstaRehber](./InstaRehber)**
+
+> *Instagram'ın Yedeklediği Rehberin Çeşitli Formatlarda Geri Dönüşümü*
+
+* * *
+
+**[🏙️ TRSehirler](./TRSehirler)**
+
+> *Türkiye Cumhuriyeti Devleti Şehirlerini; İl, Plaka, Telefon veya İlçe bilgisinden bulun..*
+
+* * *
+
+*“Believe me, the world won't give you any gifts. If you want to have a life, steal it.”* ~ **Andreas Salome**
+
+`Dünya Sana Hediye Sunmaz, İnan Bana. Bir Yaşam İstiyorsan, Çal Onu!`
+
+* * *
+
+> " Bilgi güçtür. Fakat her zaman olduğu gibi bu gücü kendine saklamak
+> isteyenler var... Bu durumu değiştirmek için mücadele edenler de
+> var...
+> 
+> Ama bütün bu eylemler karanlıkta, yeraltında gizlenerek ilerliyordu.
+> Hırsızlık veya korsanlık denildi, sanki bir bilgi hazinesini paylaşmak
+> bir gemiyi soyup mürettebatı öldürmek ile ahlaken eşdeğermiş gibi.
+> Fakat paylaşmak ahlaken yanlış değildir, aksine ahlaki bir buyruktur.
+> Yalnız açgözlülükten gözü dönmüş birisi arkadaşına istediği kopyayı
+> vermez...
+> 
+> Nerede depolanmış olursa olsun, bilgiyi almalı, kendi kopyalarımızı
+> çıkarmalı ve dünya ile paylaşmalıyız. Telif hakkı biten şeyleri alıp
+> arşive eklemeliyiz. Gizli veritabanlarını satın alıp İnternete
+> koymalıyız. Bilimsel dergileri indirip dosya paylaşım ağlarına
+> yüklemeliyiz. Gerilla Açık Erişim için savaşmalıyız.
+> 
+> Bütün dünyada yeterince fazla sayıda olursak, yalnızca bilginin
+> özelleştirilmesine karşı güçlü bir mesaj vermekle kalmayacağız, aynı
+> zamanda onu tarihe gömeceğiz. Bize katılıyor musunuz?
+> 
+> Aaron Swartz Temmuz 2008, Eremo, İtalya "
+
+* * *
+
+### *Sağlıcakla kalın ve Özgür Kalın ✌🏼*
+
+* * *
+
+## [@KekikAkademi](https://t.me/KekikAkademi) 🕊
