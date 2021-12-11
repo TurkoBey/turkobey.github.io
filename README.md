@@ -28,7 +28,7 @@
 
 > *Alan,hacim,çevre hesaplama winform projesi..*
 
-
+* * *
 *“Believe me, the world won't give you any gifts. If you want to have a life, steal it.”* ~ **Andreas Salome**
 
 `Dünya Sana Hediye Sunmaz, İnan Bana. Bir Yaşam İstiyorsan, Çal Onu!`
