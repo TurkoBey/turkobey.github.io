@@ -27,7 +27,7 @@
 **[🏙️ TCMB Doviz Bot](https://github.com/TurkoBey/TCMB-Doviz-Bot)**
 
 > *Alan,hacim,çevre hesaplama winform projesi..*
-* 
+
 
 *“Believe me, the world won't give you any gifts. If you want to have a life, steal it.”* ~ **Andreas Salome**
 
