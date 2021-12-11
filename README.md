@@ -34,6 +34,4 @@
 `Dünya Sana Hediye Sunmaz, İnan Bana. Bir Yaşam İstiyorsan, Çal Onu!`
 
 
-### *Sağlıcakla kalın ve Özgür Kalın ✌🏼*
-
 * * *
