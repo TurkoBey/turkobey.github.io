@@ -2,7 +2,7 @@
 
 * * *
 
-**[⚕ C# Günküleri](https://github.com/TurkoBey/CSharp-Gunlukleri)**
+**[⚕ C# Günlükleri](https://github.com/TurkoBey/CSharp-Gunlukleri)**
 
 > *Örneklerle cSharp öğreniyoruz..*
 
