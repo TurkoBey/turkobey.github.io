@@ -19,7 +19,17 @@
 > *uzmanpara.milliyet.com.tr'den döviz & altin & kripto verileri çeken bot,*
 
 * * *
+**[⚕ Bigpara Bot](https://github.com/TurkoBey/Bigpara-Hurriyet-Bot)**
+
+> *uzmanpara.milliyet.com.tr'den döviz & altin verileri çeken bot,*
+
+* * *
 **[🏙️ Alan & Hacim & Çevre Hesaplama](https://github.com/TurkoBey/TurkoBey.Alan-Cevre-Hacim-Hesaplama)**
+
+> *Alan,hacim,çevre hesaplama winform projesi..*
+
+* * *
+**[🏙️ TCMB Doviz Bot](https://github.com/TurkoBey/TCMB-Doviz-Bot)**
 
 > *Alan,hacim,çevre hesaplama winform projesi..*
 
