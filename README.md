@@ -24,6 +24,11 @@
 > *uzmanpara.milliyet.com.tr'den döviz & altin verileri çeken bot,*
 
 * * *
+**[⚕ Haberler.com/finans Bot](https://github.com/TurkoBey/Haberler.com-Finans-Bot)**
+
+> *haberler.com/finans'dan döviz & altin & kripto verileri çeken bot,*
+
+* * *
 **[🏙️ Alan & Hacim & Çevre Hesaplama](https://github.com/TurkoBey/TurkoBey.Alan-Cevre-Hacim-Hesaplama)**
 
 > *Alan,hacim,çevre hesaplama winform projesi..*
@@ -34,9 +39,9 @@
 > *Alan,hacim,çevre hesaplama winform projesi..*
 
 * * *
-**[🏙️ TCMB Doviz Bot](https://github.com/TurkoBey/TCMB-Doviz-Bot)**
+**[🏙️ Haberler.com/Spor Bot](https://github.com/TurkoBey/Haberler.com-Spor-Bot)**
 
-> *Alan,hacim,çevre hesaplama winform projesi..*
+> *Haberler.com/spor'dan puan durumu çeken bot..*
 
 * * *
 *“Believe me, the world won't give you any gifts. If you want to have a life, steal it.”* ~ **Andreas Salome**
